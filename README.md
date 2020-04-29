@@ -47,6 +47,8 @@ Picking the most effective drug of the group is slightly more challenging when i
 
 Similar to the tumor volume change data, the mice survival rate data shows Capomulin had a clear advantage over the other three treatments. Over the length of the study, more mice treated with Capomulin survived and this effect was becoming evident even after the first ten days. At the end of the forty-five day period, over 80 percent of the mice on Capomulin survived compared to under 50 percent for Infubinol, Ketapril, and Placebo. Therefore, it was once again proven that Capomulin is the best choice for reducing the spread of these cancer cells and increasing the survival rate.
 
+![image](https://user-images.githubusercontent.com/54809591/80608117-55ab1880-8a04-11ea-8f6e-3387242e0a11.png)
+
 # Disclaimer
 
 The baseline data used for this analysis was provided by a third party source and its accuracy in relation to actual pharmaceutical cancer treatment data is unknown.
