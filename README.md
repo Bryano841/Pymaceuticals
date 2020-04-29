@@ -43,6 +43,8 @@ Looking at the tumor volume change over time for each treatment, it is clear tha
 
 Picking the most effective drug of the group is slightly more challenging when it comes to the data comparing metastatic sites versus time. All four of the treatments in question showed metastatic site increases, but two stood out in particular as being better. Capomulin did have the lowest increase at 1.5 sites, while Infubinol wasn't far behind at 2. They were followed by Ketapril and Placebo both around 3.25, which clearly weren't as effective. Therefore, none of the treatments were able to prevent metastatic site increases.
 
+![image](https://user-images.githubusercontent.com/54809591/80607943-17adf480-8a04-11ea-99c5-8e5567e21a73.png)
+
 Similar to the tumor volume change data, the mice survival rate data shows Capomulin had a clear advantage over the other three treatments. Over the length of the study, more mice treated with Capomulin survived and this effect was becoming evident even after the first ten days. At the end of the forty-five day period, over 80 percent of the mice on Capomulin survived compared to under 50 percent for Infubinol, Ketapril, and Placebo. Therefore, it was once again proven that Capomulin is the best choice for reducing the spread of these cancer cells and increasing the survival rate.
 
 # Disclaimer
